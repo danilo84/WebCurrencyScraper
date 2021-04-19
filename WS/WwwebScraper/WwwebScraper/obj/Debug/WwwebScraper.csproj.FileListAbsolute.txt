@@ -1,0 +1,13 @@
+C:\WS\WwwebScraper\WwwebScraper\obj\Debug\WwwebScraper.csprojAssemblyReference.cache
+C:\WS\WwwebScraper\WwwebScraper\obj\Debug\WwwebScraper.csproj.CoreCompileInputs.cache
+C:\WS\WwwebScraper\WwwebScraper\bin\Debug\WwwebScraper.exe.config
+C:\WS\WwwebScraper\WwwebScraper\bin\Debug\WwwebScraper.exe
+C:\WS\WwwebScraper\WwwebScraper\bin\Debug\WwwebScraper.pdb
+C:\WS\WwwebScraper\WwwebScraper\bin\Debug\WebDriver.dll
+C:\WS\WwwebScraper\WwwebScraper\bin\Debug\WebDriver.xml
+C:\WS\WwwebScraper\WwwebScraper\obj\Debug\WwwebScraper.csproj.CopyComplete
+C:\WS\WwwebScraper\WwwebScraper\obj\Debug\WwwebScraper.exe
+C:\WS\WwwebScraper\WwwebScraper\obj\Debug\WwwebScraper.pdb
+C:\WS\WwwebScraper\WwwebScraper\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\WS\WwwebScraper\WwwebScraper\bin\Debug\WebDriver.Support.dll
+C:\WS\WwwebScraper\WwwebScraper\bin\Debug\WebDriver.Support.xml
